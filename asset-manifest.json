@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-for-today/static/css/main.9c64ac3a.css",
+    "main.js": "/react-for-today/static/js/main.636f1461.js",
+    "index.html": "/react-for-today/index.html",
+    "main.9c64ac3a.css.map": "/react-for-today/static/css/main.9c64ac3a.css.map",
+    "main.636f1461.js.map": "/react-for-today/static/js/main.636f1461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c64ac3a.css",
+    "static/js/main.636f1461.js"
+  ]
+}
